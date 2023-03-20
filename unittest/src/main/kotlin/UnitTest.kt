@@ -1,3 +1,4 @@
+import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue
 import org.junit.Test
 
@@ -6,8 +7,10 @@ class UnitTest {
     @Test
     fun testCaoDodgeAttack() {
         monarchHero = CaoCao()
-        for(i in 0..6){
-            heroes.add(NoneMonarchFactory.createRandomHero())
+        if(heroes.isEmpty()){
+            for(i in 0..6){
+                heroes.add(NoneMonarchFactory.createRandomHero())
+            }
         }
         assertTrue(monarchHero.dodgeAttack())
     }
