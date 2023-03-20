@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cd68257-417b-4a15-a7bd-7f4740cf30ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/unittest/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/src/main/kotlin/UnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/comp4107-spring2023-unittest-leoleo1222.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/Abandon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/AdvisorHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/CaoCao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/DiaoChan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/GameObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/GuanYu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/GuanYuAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/LiuBei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/META-INF/test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/MinisterRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/MonarchFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/MonarchHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/MonarchRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/NoneMonarchFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/RebelRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/SimaYi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/SunQuan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/TraitorRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/WarriorHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/WeiHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/XiaHouyuan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/XuChu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/ZhangFei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/ZhouYu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/kotlin/UnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NGuM815mFcp9fN7UlkWfFtzp8W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/f1214638/Desktop/comp4107-spring2023-unittest-leoleo1222",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd68257-417b-4a15-a7bd-7f4740cf30ab" name="Changes" comment="" />
+      <created>1679302689364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679302689364</updated>
+    </task>
+    <servers />
+  </component>
+</project>
