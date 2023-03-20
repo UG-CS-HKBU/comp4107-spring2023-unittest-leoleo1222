@@ -72,4 +72,25 @@ class UnitTest {
         }
     }
 
+    class DummyRole : Role{
+        override val roleTitle = ""
+
+        override fun getEnemy() = ""
+    }
+
+    @Test
+    fun testDiscardCards(){
+        val dummy = DummyRole()
+        val hero = ZhangFei(dummy)
+        val spy = object: WarriorHero(MinisterRole()) {
+            override val name = hero.name
+            override fun beingAttacked() {
+                hero.beingAttacked()
+                assertTrue(hero.hp >= 0)
+            }
+        }
+        for(i in 0..10)
+            spy.beingAttacked()
+    }
+
 }
